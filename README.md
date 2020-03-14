@@ -1,3 +1,4 @@
+# Project in grouping Danish Political Parties through Latent Semantic Analysis
 Project working with text data from Danish political parties' websites.
 Trying to group the Danish political parties through Latent Semantic Analysis with Bag of Words and PCA dimentionality reduction. 
 
